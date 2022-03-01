@@ -74,6 +74,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
 - [Magento](#magento)
+- [MongoDB](#mongodb)
 - [MySQL](#mysql)
 - [NodeJS](#nodejs)
 - [Operating Systems](#operating-systems)
@@ -733,6 +734,14 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [MySQL Tutorial for Beginners - Programming with Mosh](https://youtu.be/7S_tz1z_5bA)
 - :video_camera: [SQL Tutorial - Full Database Course for Beginners - freeCodeCamp](https://youtu.be/HXV3zeQKqGY)
 - :video_camera: [MySQL Database - Full Course - freeCodeCamp](https://youtu.be/ER8oKX5myE0)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## MongoDB
+
+- :video_camera: [MongoDB and Mocha - Hitesh Choudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWTaoxyeBbKpAEF90i4ijUQZ)
 
 ---
 
